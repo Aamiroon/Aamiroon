@@ -4,11 +4,14 @@
 
 I am a **CS student at PIEAS (Batch 2022-2026)**, passionate about **Machine Learning, Computer Vision, and Web Development**. I love building projects and teaching tech to young learners.
 
-## 🔥 What I'm Working On  
+## 🔥 **What I'm Working On**  
 - **Motion Cast** 🎭 – Extracting human motion and animating a 3D character  
 - **Stock Price Prediction** 📈 – Using Stock Transformer for market forecasting  
 - **Weather Forecasting** 🌦️ – AI-powered weather prediction system  
 - **Resume Website** 🌐 – Personal portfolio using HTML/CSS on GitHub Pages  
+- **AI Physical Fitness Trainer in Virtual Reality** 💪 – Developing an AI-driven fitness coach in VR with real-time feedback  
+
+  
 
 ## 🛠️ Tech Stack  
 - **Languages:** Python, C++, JavaScript  
